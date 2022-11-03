@@ -8,4 +8,6 @@ Let's create CRUD functions:
 
 - page is at Localhost:3000/cars
 
-- all CRUD functions working
+- all CRUD functions working!
+
+Takes 2 minutes!
